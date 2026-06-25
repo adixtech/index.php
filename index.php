@@ -175,7 +175,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <main class="hero">
         <!-- Visual/Text Value Proposition Block -->
         <div class="hero-text">
-            <h1>im a fool yeahhhh.</h1>
+            <h1>im a fool yeahhhh Good by everyone Go home take sleep and not come next day<br>That our motto "Drink Beer Save Water!".</h1>
             <p>Our boilerplate platform provides all the core mechanisms you need to launch a modern web application today. Sign up for early beta access.</p>
         </div>
 
